@@ -1,0 +1,23 @@
+{
+  "name": "日本客輪｜船旅印帖",
+  "short_name": "船旅印帖",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6fbff",
+  "theme_color": "#eaf7ff",
+  "icons": [
+    {
+      "src": "ship-tabijirushi-v2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "ship-tabijirushi-v2-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
