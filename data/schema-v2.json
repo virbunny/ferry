@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.0",
+  "stage": "phase_1",
+  "status": "extensible",
+  "updated_at": "2026-09-25",
+  "design_notes": [
+    "第一階段以值得專程搭乘的日本船旅為核心；69張為目前基礎名單，不代表最終全集。",
+    "後續可分階段加入非觀光性質航路，不以A/B/C/D作為程式固定邏輯。",
+    "分類、標籤、體驗性質與卡片基準彼此獨立；UI篩選器應由資料自動生成。"
+  ],
+  "fields": {
+    "primary_category": "string; references categories[].id; not enum-locked",
+    "tags": "string[]; extensible",
+    "experience_type": "string[]; extensible",
+    "card_basis": "string; current values ship/route, future values allowed",
+    "operator_mode": "string; current values single/multiple",
+    "operation": "string; current values year_round/seasonal/scheduled; future values allowed"
+  },
+  "categories": [
+    {
+      "id": "A",
+      "label": "純觀光遊覽船",
+      "phase": 1,
+      "order": 10
+    },
+    {
+      "id": "B",
+      "label": "自然體驗船",
+      "phase": 1,
+      "order": 20
+    },
+    {
+      "id": "C",
+      "label": "特色航路",
+      "phase": 1,
+      "order": 30
+    },
+    {
+      "id": "D",
+      "label": "船旅型 Ferry",
+      "phase": 1,
+      "order": 40
+    }
+  ],
+  "reserved_policy": {
+    "future_categories": "新增分類只需加入 categories 與卡片資料，不應修改 renderer 核心邏輯",
+    "counts": "所有總數與分類數量由資料即時計算，不寫死",
+    "filters": "由 categories/tags/experience_type 自動生成",
+    "migrations": "以 schema_version 管理資料遷移"
+  }
+}
