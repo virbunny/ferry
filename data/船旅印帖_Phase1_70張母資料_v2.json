@@ -2710,7 +2710,7 @@
       "official": "https://www.amanohashidate.jp/spot/amanohashidate-sightseeing-boat/",
       "schedule": "https://www.tankai.jp/trip/amaboat/",
       "duration": "天橋立桟橋～一の宮桟橋約12分",
-      "purchase": "現地購票；另有相關周遊券",
+      "purchase": "現地購票可單獨搭乘；另有天橋立觀光船＋天橋立傘松公園纜車／吊椅等組合票與周遊券方案，若同日安排傘松公園，先比較套票通常比各自購票更值得。",
       "season_note": "無固定休；首末班依季節、日期調整",
       "url_status": "official_checked",
       "category": "A",
@@ -2718,7 +2718,7 @@
       "name": "天橋立観光船",
       "ships": "",
       "features": [],
-      "purchase_detail": "現地購票；另有相關周遊券",
+      "purchase_detail": "現地購票可單獨搭乘；另有天橋立觀光船＋天橋立傘松公園纜車／吊椅等組合票與周遊券方案，若同日安排傘松公園，先比較套票通常比各自購票更值得。",
       "note": "無固定休；首末班依季節、日期調整",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "天橋立観光船",
@@ -2729,7 +2729,8 @@
       "links_available": [
         "official",
         "schedule"
-      ]
+      ],
+      "access_tip": "【省步行＋套票】天橋立觀光船本身可代替宮津／天橋立－一之宮之間約50～60分鐘步行；若同日上傘松公園，可先查看官方觀光船＋纜車／吊椅套票或周遊券，避免分開買票。"
     },
     {
       "id": "a-022",
