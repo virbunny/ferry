@@ -2622,7 +2622,7 @@
       "source_status": "official_checked",
       "official": "https://otaru-kankousen.jp/",
       "booking": "https://otaru-kankousen.jp/reservation/",
-      "purchase": "WEB目前主要受理オタモイ周遊A；其他航程及當日預約以電話洽詢",
+      "purchase": "WEB預約目前主要對應「オタモイ周遊航路A」；其他航路與當日空位可電話確認。也就是說，官網有預約頁不代表所有航路都能用同一套 WEB 預約，先決定要搭哪條航路再選預約方式。",
       "season_note": "2026年度4/18～10/18",
       "url_status": "official_checked",
       "category": "A",
@@ -2630,7 +2630,7 @@
       "name": "小樽海上観光船 あおばと",
       "ships": "",
       "features": [],
-      "purchase_detail": "WEB目前主要受理オタモイ周遊A；其他航程及當日預約以電話洽詢",
+      "purchase_detail": "WEB預約目前主要對應「オタモイ周遊航路A」；其他航路與當日空位可電話確認。也就是說，官網有預約頁不代表所有航路都能用同一套 WEB 預約，先決定要搭哪條航路再選預約方式。",
       "note": "2026年度4/18～10/18",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "小樽海上観光船 あおばと",
@@ -2642,7 +2642,8 @@
         "official",
         "booking"
       ],
-      "duration": "主要航程依 course；オタモイ周遊A 約80分"
+      "duration": "主要航程依 course；オタモイ周遊A 約80分",
+      "travel_tip": "【預約入口注意】小樽海上観光船「あおばと」各航路的預約方式並不完全相同；WEB目前主要受理オタモイ周遊航路A，其他航路不要直接假設能在線上完成，應依該航路說明或電話確認。"
     },
     {
       "id": "a-020",
