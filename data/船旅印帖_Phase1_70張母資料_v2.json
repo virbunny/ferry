@@ -57,7 +57,7 @@
       "duration": "約25～40分",
       "type": "A｜純觀光遊覽船",
       "name": "箱根海賊船",
-      "ships": "依官方配船表",
+      "ships": "クイーン芦ノ湖／ロワイヤルⅡ／ビクトリー",
       "features": [],
       "purchase_detail": "依官方最新公告",
       "purchase": "依官方最新公告",
@@ -65,7 +65,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "箱根海賊船",
       "display_kind": "航路卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "海賊船造型本身就是景點；クイーン芦ノ湖／ロワイヤルⅡ／ビクトリー三艘各有不同內裝，並可加價使用特別船室與專用甲板欣賞蘆之湖景色。",
       "operation_label": "全年／常態",
       "operator_label": "",
       "links_available": [
@@ -80,7 +80,7 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "海賊船造型本身就是景點；クイーン芦ノ湖／ロワイヤルⅡ／ビクトリー三艘各有不同內裝，並可加價使用特別船室與專用甲板欣賞蘆之湖景色。"
     },
     {
       "category": "A",
@@ -99,7 +99,7 @@
       "duration": "60／90分（另有季節夜航）",
       "type": "A｜純觀光遊覽船",
       "name": "ミシガンクルーズ",
-      "ships": "依官方配船表",
+      "ships": "ミシガン",
       "features": [],
       "purchase_detail": "依官方最新公告",
       "purchase": "依官方最新公告",
@@ -107,7 +107,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "ミシガンクルーズ",
       "display_kind": "船舶卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "以大型外輪船ミシガン巡遊琵琶湖南湖；最上層 Sky Deck 可360°眺望琵琶湖、比叡山與琵琶湖大橋，並有60分／90分及季節夜航。",
       "operation_label": "定期／時刻制",
       "operator_label": "",
       "links_available": [
@@ -123,7 +123,7 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "以大型外輪船ミシガン巡遊琵琶湖南湖；最上層 Sky Deck 可360°眺望琵琶湖、比叡山與琵琶湖大橋，並有60分／90分及季節夜航。"
     },
     {
       "category": "A",
@@ -306,7 +306,7 @@
       "url_status": "official_checked",
       "type": "A｜純觀光遊覽船",
       "name": "TOKYO CRUISE ヒミコ",
-      "ships": "依官方配船表",
+      "ships": "ヒミコ",
       "features": [],
       "purchase_detail": "依官方最新公告",
       "purchase": "依官方最新公告",
@@ -314,7 +314,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "TOKYO CRUISE ヒミコ",
       "display_kind": "船舶卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "松本零士設計的淚滴型未來船；船內可聽到《銀河鐵道999》鐵郎、梅德爾與車掌等角色的觀光廣播，船本身就是搭乘目的。",
       "operation_label": "定期／時刻制",
       "operator_label": "",
       "links_available": [
@@ -329,7 +329,7 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "松本零士設計的淚滴型未來船；船內可聽到《銀河鐵道999》鐵郎、梅德爾與車掌等角色的觀光廣播，船本身就是搭乘目的。"
     },
     {
       "category": "A",
@@ -346,7 +346,7 @@
       "url_status": "official_checked",
       "type": "A｜純觀光遊覽船",
       "name": "TOKYO CRUISE ホタルナ",
-      "ships": "依官方配船表",
+      "ships": "ホタルナ",
       "features": [],
       "purchase_detail": "依官方最新公告",
       "purchase": "依官方最新公告",
@@ -354,7 +354,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "TOKYO CRUISE ホタルナ",
       "display_kind": "船舶卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "松本零士設計的銀色流線型未來船，帶有 Gull-wing 艙門；日の出桟橋－お台場區間天候許可時會開放屋上甲板，可直接在船外欣賞東京灣景色。",
       "operation_label": "定期／時刻制",
       "operator_label": "",
       "links_available": [
@@ -369,7 +369,7 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "松本零士設計的銀色流線型未來船，帶有 Gull-wing 艙門；日の出桟橋－お台場區間天候許可時會開放屋上甲板，可直接在船外欣賞東京灣景色。"
     },
     {
       "category": "A",
@@ -435,7 +435,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "賢島エスパーニャクルーズ",
       "display_kind": "船舶卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "搭乘仿西班牙大航海時代 Carrack 帆船造型的エスペランサ巡遊英虞灣約50分；沿途可看珍珠養殖筏，3樓 Open Deck 視野開闊。",
       "operation_label": "定期／時刻制",
       "operator_label": "",
       "links_available": [
@@ -449,7 +449,7 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "搭乘仿西班牙大航海時代 Carrack 帆船造型的エスペランサ巡遊英虞灣約50分；沿途可看珍珠養殖筏，3樓 Open Deck 視野開闊。"
     },
     {
       "category": "A",
@@ -465,7 +465,7 @@
       "official": "https://www.hakodate-factory.com/bluemoon/",
       "type": "A｜純觀光遊覽船",
       "name": "観光遊覧船ブルームーン",
-      "ships": "依官方配船表",
+      "ships": "ブルームーン",
       "features": [],
       "purchase_detail": "依官方最新公告",
       "purchase": "依官方最新公告",
@@ -473,7 +473,7 @@
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "観光遊覧船ブルームーン",
       "display_kind": "船舶卡",
-      "display_lead": "依官方最新公告",
+      "display_lead": "函館首艘本格 Bay Cruise 雙體遊覽船；可選約40分函館港內一周或約60分函館－寒川周遊，2026年船內大幅翻新並加入船上美術館般的藝術空間。",
       "operation_label": "定期／時刻制",
       "operator_label": "",
       "links_available": [
@@ -487,7 +487,8 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "依官方最新公告"
+      "highlight": "函館首艘本格 Bay Cruise 雙體遊覽船；可選約40分函館港內一周或約60分函館－寒川周遊，2026年船內大幅翻新並加入船上美術館般的藝術空間。",
+      "duration": "約40分（函館港內一周）／約60分（函館－寒川周遊）"
     },
     {
       "category": "A",
