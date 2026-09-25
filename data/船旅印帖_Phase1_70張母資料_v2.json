@@ -2399,14 +2399,14 @@
       "source_status": "official_checked",
       "official": "https://www.banpr.co.jp/大阪城御座船/",
       "duration": "約20分",
-      "purchase": "當日現地購票為主",
+      "purchase": "一般旅客以當日現地購票為主；持 Osaka Amazing Pass（大阪周遊パス）可免費搭乘，但仍需先到售票處出示票券／QR Code，換取指定時間的乘船券。",
       "url_status": "official_checked",
       "category": "A",
       "type": "A｜純觀光遊覽船",
       "name": "大阪城御座船",
       "ships": "",
       "features": [],
-      "purchase_detail": "當日現地購票為主",
+      "purchase_detail": "一般旅客以當日現地購票為主；持 Osaka Amazing Pass（大阪周遊パス）可免費搭乘，但仍需先到售票處出示票券／QR Code，換取指定時間的乘船券。",
       "note": "",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "大阪城御座船",
@@ -2416,7 +2416,8 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "access_tip": "【大阪周遊卡】大阪城御座船為 Osaka Amazing Pass 免費設施之一；不是直接排隊上船，仍要先換取指定時間乘船券。熱門時段可能額滿，建議到大阪城後先換票再逛。"
     },
     {
       "id": "a-015",
