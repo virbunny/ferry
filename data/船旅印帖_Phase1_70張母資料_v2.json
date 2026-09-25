@@ -717,8 +717,8 @@
       "name": "流氷砕氷船 ガリンコ号",
       "ships": "ガリンコ号Ⅱ／ガリンコ号Ⅲ IMERU",
       "features": [],
-      "purchase_detail": "",
-      "purchase": "",
+      "purchase_detail": "官方設有ガリンコ号線上預約系統；各季節 Cruise／活動依商品頁選日期與人數預約，部分航次需在出港30分鐘前完成乘船受付。",
+      "purchase": "官方設有ガリンコ号線上預約系統；各季節 Cruise／活動依商品頁選日期與人數預約，部分航次需在出港30分鐘前完成乘船受付。",
       "note": "2026冬季運航已於3/31結束；2026另有夏季特別 Cruise",
       "link_status": "✓ 官方資料查核 2026-09-24",
       "display_title": "流氷砕氷船 ガリンコ号",
@@ -737,7 +737,8 @@
       "experience_type": [
         "自然體驗"
       ],
-      "highlight": "2026冬季運航已於3/31結束；2026另有夏季特別 Cruise"
+      "highlight": "2026冬季運航已於3/31結束；2026另有夏季特別 Cruise",
+      "booking": "https://booking.o-tower.co.jp/?lng=ja-JP"
     },
     {
       "category": "B",
@@ -2883,7 +2884,7 @@
       "official": "https://www.hozugawakudari.jp/",
       "schedule": "https://www.hozugawakudari.jp/service/timetable",
       "duration": "約2小時",
-      "purchase": "",
+      "purchase": "10名未滿可線上預約，原則最晚前一天截止；沒有預約也可現場依先到順序購買當日券。10名以上採電話預約。繁忙期想確保搭到船，以線上預約最穩妥。",
       "season_note": "2026/3/10～12/13平日定時、週末假日隨時出船；12/29～1/4休",
       "url_status": "official_checked",
       "category": "B",
@@ -2891,7 +2892,7 @@
       "name": "保津川下り",
       "ships": "",
       "features": [],
-      "purchase_detail": "",
+      "purchase_detail": "10名未滿可線上預約，原則最晚前一天截止；沒有預約也可現場依先到順序購買當日券。10名以上採電話預約。繁忙期想確保搭到船，以線上預約最穩妥。",
       "note": "2026/3/10～12/13平日定時、週末假日隨時出船；12/29～1/4休",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "保津川下り",
@@ -2902,7 +2903,8 @@
       "links_available": [
         "official",
         "schedule"
-      ]
+      ],
+      "booking": "https://www.hozugawakudari.jp/tickets/reservation"
     },
     {
       "id": "b-018",
@@ -2927,7 +2929,7 @@
       "source_status": "official_checked",
       "official": "https://linekudari.com/",
       "duration": "約30～40分",
-      "purchase": "",
+      "purchase": "官方提供 WEB 預約枠；未預約時仍需依當日運航與現場受付狀況。另有部分接駁服務採先到順序、不能預約，勿與ライン下り本身的 WEB 預約混淆。",
       "season_note": "季節運航；天候與河川狀況可能影響",
       "url_status": "official_checked",
       "category": "B",
@@ -2935,7 +2937,7 @@
       "name": "鬼怒川ライン下り",
       "ships": "",
       "features": [],
-      "purchase_detail": "",
+      "purchase_detail": "官方提供 WEB 預約枠；未預約時仍需依當日運航與現場受付狀況。另有部分接駁服務採先到順序、不能預約，勿與ライン下り本身的 WEB 預約混淆。",
       "note": "季節運航；天候與河川狀況可能影響",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "鬼怒川ライン下り",
@@ -2945,7 +2947,8 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "booking": "https://linekudari.com/"
     },
     {
       "id": "b-019",
