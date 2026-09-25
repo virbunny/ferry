@@ -1,0 +1,349 @@
+{
+  "schema_version": "2.0",
+  "phase": 1,
+  "status": "working_dataset",
+  "updated_at": "2026-09-25",
+  "base_count": 54,
+  "new_count": 15,
+  "total_target": 69,
+  "cards": [
+    {
+      "id": "a-014",
+      "primary_category": "A",
+      "title": "大阪城御座船",
+      "region": "大阪｜大阪城内濠",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "城郭",
+        "省步行"
+      ],
+      "experience_type": [
+        "觀光",
+        "城郭",
+        "省步行"
+      ],
+      "highlight": "大阪城內濠金色御座船；從水面近看天守與石垣",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-015",
+      "primary_category": "A",
+      "title": "広島城遊覧船",
+      "region": "廣島｜廣島城内堀",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "城郭"
+      ],
+      "experience_type": [
+        "觀光",
+        "城郭"
+      ],
+      "highlight": "約20分鐘繞行廣島城內堀",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-016",
+      "primary_category": "A",
+      "title": "和歌山城お堀舟",
+      "region": "和歌山｜和歌山城",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "城郭"
+      ],
+      "experience_type": [
+        "觀光",
+        "城郭"
+      ],
+      "highlight": "護城河遊覽與城郭導覽",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-017",
+      "primary_category": "A",
+      "title": "くらしき川舟流し",
+      "region": "岡山｜倉敷美観地区",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "scheduled",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "歷史街區"
+      ],
+      "experience_type": [
+        "觀光",
+        "歷史街區"
+      ],
+      "highlight": "沿倉敷川欣賞白壁町家與歷史街區",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-018",
+      "primary_category": "A",
+      "title": "小樽運河クルーズ",
+      "region": "北海道｜小樽運河",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "scheduled",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "歷史街區"
+      ],
+      "experience_type": [
+        "觀光",
+        "歷史街區"
+      ],
+      "highlight": "小樽運河、倉庫群與港區日夜巡航",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-019",
+      "primary_category": "A",
+      "title": "小樽海上観光船 あおばと",
+      "region": "北海道｜小樽海岸",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "海岸景觀"
+      ],
+      "experience_type": [
+        "觀光",
+        "海岸景觀"
+      ],
+      "highlight": "由海上欣賞祝津、オタモイ、赤岩海岸",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-020",
+      "primary_category": "A",
+      "title": "伊根湾めぐり遊覧船",
+      "region": "京都｜伊根湾",
+      "card_basis": "route",
+      "operator_mode": "multiple",
+      "operation": "scheduled",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "漁村景觀",
+        "省步行"
+      ],
+      "experience_type": [
+        "觀光",
+        "漁村景觀",
+        "省步行"
+      ],
+      "highlight": "從海上觀看伊根舟屋；另有小型海上タクシー",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-021",
+      "primary_category": "A",
+      "title": "天橋立観光船",
+      "region": "京都｜天橋立",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "scheduled",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "交通代步",
+        "省步行"
+      ],
+      "experience_type": [
+        "觀光",
+        "交通代步",
+        "省步行"
+      ],
+      "highlight": "約12分鐘取代約50～60分鐘步行，同時由海上欣賞天橋立",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "a-022",
+      "primary_category": "A",
+      "title": "八幡堀めぐり",
+      "region": "滋賀｜近江八幡・八幡堀",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "year_round",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "城郭",
+        "歷史街區"
+      ],
+      "experience_type": [
+        "觀光",
+        "城郭",
+        "歷史街區"
+      ],
+      "highlight": "沿歷史護城河欣賞城下町與白壁土藏",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-015",
+      "primary_category": "B",
+      "title": "近江八幡 水郷めぐり",
+      "region": "滋賀｜近江八幡・西の湖",
+      "card_basis": "route",
+      "operator_mode": "multiple",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "水鄉"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "水鄉"
+      ],
+      "highlight": "傳統和船穿行蘆葦水鄉",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-016",
+      "primary_category": "B",
+      "title": "長瀞ラインくだり",
+      "region": "埼玉｜長瀞・荒川",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "川下り"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "川下り"
+      ],
+      "highlight": "傳統和船穿越岩疊、急瀨與深潭",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-017",
+      "primary_category": "B",
+      "title": "保津川下り",
+      "region": "京都｜亀岡→嵐山",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "川下り"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "川下り"
+      ],
+      "highlight": "約2小時傳統川下り，由龜岡順流至嵐山",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-018",
+      "primary_category": "B",
+      "title": "鬼怒川ライン下り",
+      "region": "栃木｜鬼怒川",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "川下り"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "川下り"
+      ],
+      "highlight": "木船穿越鬼怒川溪谷，約30～40分鐘",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-019",
+      "primary_category": "B",
+      "title": "球磨川くだり",
+      "region": "熊本｜人吉・球磨川",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "川下り"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "川下り"
+      ],
+      "highlight": "百年以上歷史木舟體驗；運航受水位影響",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    },
+    {
+      "id": "b-020",
+      "primary_category": "B",
+      "title": "国賀海岸遊覧船",
+      "region": "島根｜隠岐・西ノ島",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "自然體驗",
+        "海岸景觀"
+      ],
+      "experience_type": [
+        "自然體驗",
+        "海岸景觀"
+      ],
+      "highlight": "海上觀賞摩天崖與海蝕洞；海況許可時進入明暗岩屋",
+      "source_status": "research_confirmed_pending_structured_url_import"
+    }
+  ]
+}
