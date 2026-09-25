@@ -1,7 +1,7 @@
 {
   "schema_version": "2.0",
   "phase": 1,
-  "status": "working_dataset",
+  "status": "phase1_url_verified",
   "updated_at": "2026-09-25",
   "count": 69,
   "categories": [
@@ -2330,7 +2330,11 @@
         "省步行"
       ],
       "highlight": "大阪城內濠金色御座船；從水面近看天守與石垣",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.banpr.co.jp/大阪城御座船/",
+      "duration": "約20分",
+      "purchase": "當日現地購票為主",
+      "url_status": "official_checked"
     },
     {
       "id": "a-015",
@@ -2352,7 +2356,12 @@
         "城郭"
       ],
       "highlight": "約20分鐘繞行廣島城內堀",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://hiroshimacastle.jp/cruiseline",
+      "duration": "約20分",
+      "purchase": "可事前購票；當日依運航狀況",
+      "season_note": "2026年度以土・日・祝為主；惡劣天候或高溫可能欠航",
+      "url_status": "official_checked"
     },
     {
       "id": "a-016",
@@ -2374,7 +2383,12 @@
         "城郭"
       ],
       "highlight": "護城河遊覽與城郭導覽",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://wakayamajo.jp/other/topics.php?id=249",
+      "duration": "約20分",
+      "purchase": "原則當日現地先到先得；可洽詢事前預約",
+      "season_note": "2026年3月下旬～紅葉結束期，荒天中止",
+      "url_status": "official_checked"
     },
     {
       "id": "a-017",
@@ -2396,7 +2410,12 @@
         "歷史街區"
       ],
       "highlight": "沿倉敷川欣賞白壁町家與歷史街區",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://kankou-kurashiki.jp/special/kawafune/",
+      "duration": "約20分",
+      "purchase": "2026年10月起部分一般班可於30日前WEB預約；仍保留當日販售",
+      "season_note": "3～12月第2週一休（祝日除外）；1～2月僅週六日祝；年末年始停航",
+      "url_status": "official_checked"
     },
     {
       "id": "a-018",
@@ -2418,7 +2437,14 @@
         "歷史街區"
       ],
       "highlight": "小樽運河、倉庫群與港區日夜巡航",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://otaru.cc/",
+      "booking": "https://otaru.cc/",
+      "schedule": "https://otaru.cc/timetable/",
+      "duration": "約40分",
+      "purchase": "一般乘合便可WEB事前購買E-ticket，最晚出航1小時前",
+      "season_note": "日間與夜間班次依日期調整",
+      "url_status": "official_checked"
     },
     {
       "id": "a-019",
@@ -2440,7 +2466,12 @@
         "海岸景觀"
       ],
       "highlight": "由海上欣賞祝津、オタモイ、赤岩海岸",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://otaru-kankousen.jp/",
+      "booking": "https://otaru-kankousen.jp/reservation/",
+      "purchase": "WEB目前主要受理オタモイ周遊A；其他航程及當日預約以電話洽詢",
+      "season_note": "2026年度4/18～10/18",
+      "url_status": "official_checked"
     },
     {
       "id": "a-020",
@@ -2464,7 +2495,10 @@
         "省步行"
       ],
       "highlight": "從海上觀看伊根舟屋；另有小型海上タクシー",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.ine-kankou.jp/shop/inewanmeguri",
+      "purchase": "依官方最新公告；另有多業者海上タクシー選擇",
+      "url_status": "official_checked"
     },
     {
       "id": "a-021",
@@ -2488,7 +2522,13 @@
         "省步行"
       ],
       "highlight": "約12分鐘取代約50～60分鐘步行，同時由海上欣賞天橋立",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.amanohashidate.jp/spot/amanohashidate-sightseeing-boat/",
+      "schedule": "https://www.tankai.jp/trip/amaboat/",
+      "duration": "天橋立桟橋～一の宮桟橋約12分",
+      "purchase": "現地購票；另有相關周遊券",
+      "season_note": "無固定休；首末班依季節、日期調整",
+      "url_status": "official_checked"
     },
     {
       "id": "a-022",
@@ -2512,7 +2552,11 @@
         "歷史街區"
       ],
       "highlight": "沿歷史護城河欣賞城下町與白壁土藏",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.omi8.com/spot/detail_1030.html",
+      "duration": "約30～35分",
+      "purchase": "年中無休、一般可免預約；惡劣天候可能中止",
+      "url_status": "official_checked"
     },
     {
       "id": "b-015",
@@ -2534,7 +2578,12 @@
         "水鄉"
       ],
       "highlight": "傳統和船穿行蘆葦水鄉",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.omi8.com/stories/suigo",
+      "duration": "依業者約60～80分以上",
+      "purchase": "多業者；乘合、貸切與預約規則依各社",
+      "season_note": "各業者運航期不同；部分和船4/1～11/30運航",
+      "url_status": "official_checked"
     },
     {
       "id": "b-016",
@@ -2556,7 +2605,11 @@
         "川下り"
       ],
       "highlight": "傳統和船穿越岩疊、急瀨與深潭",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.nagatoro.gr.jp/shisetsu/nagatoro-line/",
+      "purchase": "依當日水量與官方運航資訊",
+      "season_note": "冬季休業；荒川增水或渇水可能欠航",
+      "url_status": "official_checked"
     },
     {
       "id": "b-017",
@@ -2578,7 +2631,13 @@
         "川下り"
       ],
       "highlight": "約2小時傳統川下り，由龜岡順流至嵐山",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.hozugawakudari.jp/",
+      "schedule": "https://www.hozugawakudari.jp/service/timetable",
+      "duration": "約2小時",
+      "purchase": "依官方預約／料金頁",
+      "season_note": "2026/3/10～12/13平日定時、週末假日隨時出船；12/29～1/4休",
+      "url_status": "official_checked"
     },
     {
       "id": "b-018",
@@ -2600,7 +2659,12 @@
         "川下り"
       ],
       "highlight": "木船穿越鬼怒川溪谷，約30～40分鐘",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://linekudari.com/",
+      "duration": "約30～40分",
+      "purchase": "依官方WEB預約枠與當日運航資訊",
+      "season_note": "季節運航；天候與河川狀況可能影響",
+      "url_status": "official_checked"
     },
     {
       "id": "b-019",
@@ -2622,7 +2686,13 @@
         "川下り"
       ],
       "highlight": "百年以上歷史木舟體驗；運航受水位影響",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.kumagawa.co.jp/kumagawa/",
+      "schedule": "https://www.kumagawa.co.jp/news/",
+      "duration": "清流復興コース約50分",
+      "purchase": "依官方最新營業公告",
+      "season_note": "水位影響大；2026年曾因渇水停航與恢復，出發前必查運航公告",
+      "url_status": "official_checked"
     },
     {
       "id": "b-020",
@@ -2644,7 +2714,12 @@
         "海岸景觀"
       ],
       "highlight": "海上觀賞摩天崖與海蝕洞；海況許可時進入明暗岩屋",
-      "source_status": "research_confirmed_pending_structured_url_import"
+      "source_status": "official_checked",
+      "official": "https://www.okikankou.com/sightseeing-boat/",
+      "duration": "Aコース約1小時30分",
+      "purchase": "可WEB預約；前日／當日可電話洽詢",
+      "season_note": "2026/3/21～10/31每日；Aコース1日3便。Bコース2026年度不運航；荒天可能改船長おまかせコース",
+      "url_status": "official_checked"
     }
   ]
 }
