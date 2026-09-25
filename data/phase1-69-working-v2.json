@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
   "phase": 1,
-  "status": "phase1_url_verified",
+  "status": "phase1_70_url_verified",
   "updated_at": "2026-09-25",
-  "count": 69,
+  "count": 70,
   "categories": [
     {
       "id": "A",
       "label": "純觀光遊覽船",
-      "count": 22
+      "count": 23
     },
     {
       "id": "B",
@@ -2720,6 +2720,36 @@
       "purchase": "可WEB預約；前日／當日可電話洽詢",
       "season_note": "2026/3/21～10/31每日；Aコース1日3便。Bコース2026年度不運航；荒天可能改船長おまかせコース",
       "url_status": "official_checked"
+    },
+    {
+      "id": "a-023",
+      "primary_category": "A",
+      "title": "姫路城内堀 和船",
+      "region": "兵庫｜姫路城内堀",
+      "card_basis": "route",
+      "operator_mode": "single",
+      "operation": "seasonal",
+      "status": "included",
+      "phase": 1,
+      "verified_at": "2026-09-25",
+      "tags": [
+        "觀光",
+        "城郭",
+        "歷史體驗"
+      ],
+      "experience_type": [
+        "觀光",
+        "城郭",
+        "歷史體驗"
+      ],
+      "highlight": "傳統和船巡遊姬路城內堀，從水面欣賞世界遺產姬路城與石垣",
+      "ships": "はりま／しらさぎ",
+      "duration": "約30分",
+      "official": "https://www.himeji-kanko.jp/event/1877/",
+      "purchase": "依官方當年度運航公告與現場規定",
+      "season_note": "2026/3/20～12/6；以週五、六、日及假日為主，春秋部分期間每日運航",
+      "url_status": "official_checked",
+      "source_status": "official_checked"
     }
   ]
 }
