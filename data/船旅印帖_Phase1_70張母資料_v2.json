@@ -2433,7 +2433,7 @@
       "operation": "seasonal",
       "status": "included",
       "phase": 1,
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-09-27",
       "tags": [
         "觀光",
         "城郭"
@@ -2446,7 +2446,7 @@
       "source_status": "official_checked",
       "official": "https://hiroshimacastle.jp/cruiseline",
       "duration": "約20分",
-      "purchase": "可事前購票；當日依運航狀況",
+      "purchase": "可由廣島城官網事前預約；即使線上預約名額售完，只要當天仍有空位，也可能不預約直接搭乘。想現場候補者應在開船前10分鐘到碼頭確認；已事前購票者若遇停航，官方會以 Email 通知。",
       "season_note": "2026年度以土・日・祝為主；惡劣天候或高溫可能欠航",
       "url_status": "official_checked",
       "category": "A",
@@ -2454,7 +2454,7 @@
       "name": "広島城遊覧船",
       "ships": "",
       "features": [],
-      "purchase_detail": "可事前購票；當日依運航狀況",
+      "purchase_detail": "可由廣島城官網事前預約；即使線上預約名額售完，只要當天仍有空位，也可能不預約直接搭乘。想現場候補者應在開船前10分鐘到碼頭確認；已事前購票者若遇停航，官方會以 Email 通知。",
       "note": "2026年度以土・日・祝為主；惡劣天候或高溫可能停航",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "広島城遊覧船",
@@ -2464,7 +2464,8 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "travel_tip": "【線上額滿不等於當天沒位】官方說明：預約名額售完時，若仍有當日乘船空位，可直接到碼頭詢問；建議最晚開船前10分鐘到場確認。"
     },
     {
       "id": "a-016",
@@ -2476,7 +2477,7 @@
       "operation": "seasonal",
       "status": "included",
       "phase": 1,
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-09-27",
       "tags": [
         "觀光",
         "城郭"
@@ -2489,7 +2490,7 @@
       "source_status": "official_checked",
       "official": "https://wakayamajo.jp/other/topics.php?id=249",
       "duration": "約20分",
-      "purchase": "原則當日現地先到先得；可洽詢事前預約",
+      "purchase": "原則為乘船當天到現場依先到順序報名；若事前預約，營運方會在可能範圍內盡量安排希望的日期與時間。每船定員原則7人，約20分鐘並附導覽。",
       "season_note": "2026年3月下旬～紅葉結束期，荒天中止",
       "url_status": "official_checked",
       "category": "A",
@@ -2497,7 +2498,7 @@
       "name": "和歌山城お堀舟",
       "ships": "",
       "features": [],
-      "purchase_detail": "原則當日現地先到先得；可洽詢事前預約",
+      "purchase_detail": "原則為乘船當天到現場依先到順序報名；若事前預約，營運方會在可能範圍內盡量安排希望的日期與時間。每船定員原則7人，約20分鐘並附導覽。",
       "note": "2026年3月下旬～紅葉結束期，荒天中止",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "和歌山城お堀舟",
@@ -2507,7 +2508,8 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "travel_tip": "【現場為主、預約為輔】和歌山城護城河遊船不是「一定要預約」的商品；一般旅客可當天現場排隊。若行程時間很固定，再事前聯絡營運方較有價值。"
     },
     {
       "id": "a-017",
