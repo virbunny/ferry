@@ -2714,10 +2714,10 @@
       "region": "大阪｜大阪城内濠",
       "card_basis": "route",
       "operator_mode": "single",
-      "operation": "seasonal",
+      "operation": "scheduled",
       "status": "included",
       "phase": 1,
-      "verified_at": "2026-09-27",
+      "verified_at": "2026-09-28",
       "tags": [
         "觀光",
         "城郭",
@@ -2751,12 +2751,13 @@
         "official"
       ],
       "access_tip": "【大阪周遊卡】大阪城御座船為 Osaka Amazing Pass 免費設施之一；不是直接排隊上船，仍要先換取指定時間乘船券。熱門時段可能額滿，建議到大阪城後先換票再逛。",
-      "last_deep_checked": "2026-09-27",
-      "next_check": "2027-02-01",
-      "watch_level": "high",
+      "last_deep_checked": "2026-09-28",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
       "change_detected": false,
-      "check_cycle": "preseason",
-      "last_signal_checked": "2026-09-28"
+      "check_cycle": "quarterly",
+      "last_signal_checked": "2026-09-28",
+      "season_note": "原則每日運航，10:00～16:30；年末年始12/28～1/3休息。強風等天候因素可能減班或停航。"
     },
     {
       "id": "a-015",
