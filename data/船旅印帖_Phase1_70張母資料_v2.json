@@ -339,7 +339,7 @@
       "operation": "scheduled",
       "id": "a-007",
       "status": "included",
-      "verified_at": "2026-09-27",
+      "verified_at": "2026-09-28",
       "official": "https://www.suijobus.co.jp/",
       "schedule": "https://www.suijobus.co.jp/price/",
       "url_status": "official_checked",
@@ -374,7 +374,8 @@
       "watch_level": "medium",
       "change_detected": false,
       "check_cycle": "quarterly",
-      "last_signal_checked": "2026-09-28"
+      "last_signal_checked": "2026-09-28",
+      "duration": "約50分鐘（淺草→台場）"
     },
     {
       "category": "A",
@@ -385,7 +386,7 @@
       "operation": "scheduled",
       "id": "a-008",
       "status": "included",
-      "verified_at": "2026-09-27",
+      "verified_at": "2026-09-28",
       "official": "https://www.suijobus.co.jp/",
       "schedule": "https://www.suijobus.co.jp/price/",
       "url_status": "official_checked",
@@ -420,7 +421,8 @@
       "watch_level": "medium",
       "change_detected": false,
       "check_cycle": "quarterly",
-      "last_signal_checked": "2026-09-28"
+      "last_signal_checked": "2026-09-28",
+      "duration": "約40～65分鐘（依航段）"
     },
     {
       "category": "A",
@@ -431,7 +433,7 @@
       "operation": "scheduled",
       "id": "a-009",
       "status": "included",
-      "verified_at": "2026-09-27",
+      "verified_at": "2026-09-28",
       "official": "https://www.suijobus.co.jp/",
       "schedule": "https://www.suijobus.co.jp/price/",
       "url_status": "official_checked",
@@ -467,7 +469,8 @@
       "watch_level": "medium",
       "change_detected": false,
       "check_cycle": "quarterly",
-      "last_signal_checked": "2026-09-28"
+      "last_signal_checked": "2026-09-28",
+      "duration": "約55分鐘（淺草↔台場）"
     },
     {
       "category": "A",
@@ -1637,7 +1640,7 @@
       "ships": "フェリーあぜりあ",
       "id": "c-007",
       "status": "included",
-      "verified_at": "2026-09-27",
+      "verified_at": "2026-09-28",
       "url_status": "official_checked",
       "official": "https://shinshin-kisen.jp/",
       "schedule": "https://shinshin-kisen.jp/service/",
@@ -1672,7 +1675,8 @@
       "watch_level": "medium",
       "change_detected": false,
       "check_cycle": "quarterly",
-      "last_signal_checked": "2026-09-28"
+      "last_signal_checked": "2026-09-28",
+      "duration": "各島航段約20分鐘～2小時20分鐘"
     },
     {
       "category": "C",
