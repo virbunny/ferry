@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "dataset_version": "2.0.0",
+  "dataset_version": "2.1.0",
   "phase": 1,
   "status": "phase1_master",
   "updated_at": "2026-09-27",
@@ -8,7 +8,8 @@
   "design_notes": [
     "第一階段以值得專程搭乘的日本船旅為核心；69張為目前基礎名單，不代表最終全集。",
     "後續可分階段加入非觀光性質航路，不以A/B/C/D作為程式固定邏輯。",
-    "分類、標籤、體驗性質與卡片基準彼此獨立；UI篩選器應由資料自動生成。"
+    "分類、標籤、體驗性質與卡片基準彼此獨立；UI篩選器應由資料自動生成。",
+    "Dataset 2.1.0：完成購票／預約實用性 QA、Pass／套票決策 QA、台灣繁中可理解性 QA，並納入 Tips 與差異化維護 metadata。"
   ],
   "categories": [
     {
