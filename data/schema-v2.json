@@ -17,7 +17,12 @@
     "operation": "string; current values year_round/seasonal/scheduled; future values allowed",
     "travel_tip": "string; optional; practical trip-planning advice that changes how a traveler uses or plans the experience; empty string means not yet provided",
     "access_tip": "string; optional; practical access/transfer advice that reduces walking, confusion, or transfer risk; empty string means not yet provided",
-    "scenic_tip": "string; optional; practical viewing/seat/timing advice for improving the onboard experience; empty string means not yet provided"
+    "scenic_tip": "string; optional; practical viewing/seat/timing advice for improving the onboard experience; empty string means not yet provided",
+    "last_deep_checked": "string (YYYY-MM-DD); date of the last full card-level verification, not a lightweight weekly signal check",
+    "next_check": "string (YYYY-MM-DD); scheduled next deep review date; may be advanced when change_detected is true",
+    "watch_level": "string; current values high/medium/low; maintenance priority based on how often decision-relevant facts are likely to change",
+    "change_detected": "boolean; true when a lightweight monitoring pass finds a change that requires card-level review; reset to false after deep review is completed",
+    "check_cycle": "string; current values monthly/quarterly/preseason/annual; normal deep-review cadence, independent of emergency change-triggered review"
   },
   "categories": [
     {
@@ -50,6 +55,9 @@
     "counts": "所有總數與分類數量由資料即時計算，不寫死",
     "filters": "由 categories/tags/experience_type 自動生成",
     "migrations": "以 schema_version 管理資料遷移",
-    "tips": "travel_tip/access_tip/scenic_tip are independent optional content layers; renderer may hide empty values and should not infer missing tips"
+    "tips": "travel_tip/access_tip/scenic_tip are independent optional content layers; renderer may hide empty values and should not infer missing tips",
+    "maintenance": "weekly maintenance should scan high-change signals rather than re-verify every card; stable cards are reviewed on their check_cycle or when change_detected becomes true",
+    "watch_level": "high = schedules/prices/booking rules or seasonal operations change frequently; medium = periodic operational changes; low = mostly stable descriptive content",
+    "change_trigger": "when a meaningful change is detected, set change_detected=true and bring next_check forward; after verified update, record last_deep_checked and reset change_detected=false"
   }
 }
