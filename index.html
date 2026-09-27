@@ -1,4 +1,4 @@
-<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#eaf7ff"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="ship-tabijirushi-v3-192.png"><title>日本客輪｜船旅印帖 v3.2.1</title><style>:root{--bg:#f6fbff;--ink:#19324a;--muted:#60758a;--line:#cfe2ef;--card:#fff;--accent:#287fb8;--pink:#f6dce5;--blue:#dff2ff;--green:#e6f5df;--yellow:#fff1b8;--ok:#dff4e4}
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#eaf7ff"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="ship-tabijirushi-v3-192.png"><title>日本客輪｜船旅印帖 v3.2.2</title><style>:root{--bg:#f6fbff;--ink:#19324a;--muted:#60758a;--line:#cfe2ef;--card:#fff;--accent:#287fb8;--pink:#f6dce5;--blue:#dff2ff;--green:#e6f5df;--yellow:#fff1b8;--ok:#dff4e4}
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Noto Sans TC",sans-serif;background:var(--bg);color:var(--ink)}
 header{background:linear-gradient(135deg,var(--blue),#fff,var(--pink));padding:26px 18px;border-bottom:1px solid var(--line)}.wrap{max-width:1180px;margin:auto}
 h1{margin:0;font-size:clamp(22px,3.5vw,32px)}.sub{color:var(--muted);margin-top:6px;line-height:1.6}.top{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
@@ -10,7 +10,7 @@ button,select,input{border:1px solid #aac9dc;background:white;border-radius:12px
 .cardHead h2{font-size:20px;margin:0 34px 4px 0}.jp{font-size:13px;color:var(--muted)}.cardChevron{position:absolute;right:5px;top:50%;transform:translateY(-50%);font-size:22px;color:var(--accent)}
 .cardBody{padding:0 16px 16px;border-top:1px solid #e9f2f7}.route{font-weight:700;margin:12px 0}.highlight{background:#fff8dc;border-radius:12px;margin:10px 0;line-height:1.55;padding:10px}.highlight b{display:block;margin-bottom:4px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}.chip{background:var(--blue);border-radius:999px;padding:4px 9px;font-size:12px}.chip:nth-child(3n){background:var(--green)}.chip:nth-child(4n){background:var(--yellow)}
-.meta{font-size:14px;line-height:1.65}.purchase{background:#f3f9ff;border:1px solid #d6e8f4;border-radius:12px;padding:10px;margin:10px 0;line-height:1.6}.verified{display:inline-block;background:var(--ok);border-radius:999px;padding:4px 9px;font-size:12px;margin-top:8px}
+.meta{font-size:14px;line-height:1.65}.purchase{background:#f3f9ff;border:1px solid #d6e8f4;border-radius:12px;padding:12px;margin:10px 0;line-height:1.65}.purchase>strong{display:block;margin-bottom:8px}.purchaseSection{margin:8px 0 0}.purchaseSection+.purchaseSection{border-top:1px dashed #c8ddea;padding-top:9px}.purchaseSectionTitle{font-weight:700;color:#245f83;margin-bottom:5px}.purchaseList{margin:4px 0 0;padding-left:1.4em}.purchaseList li{margin:4px 0}.verified{display:inline-block;background:var(--ok);border-radius:999px;padding:4px 9px;font-size:12px;margin-top:8px}
 .actions{display:flex;gap:7px;align-items:center;flex-wrap:wrap;margin-top:12px}a.btn{text-decoration:none;border:1px solid #aac9dc;border-radius:10px;padding:8px 10px;color:var(--accent);background:white}.collapseRow{display:flex;justify-content:flex-end;margin-top:14px}
 dialog{border:1px solid var(--line);border-radius:18px;max-width:720px;width:calc(100% - 32px);padding:20px}dialog::backdrop{background:#17364a55}footer{padding:20px;color:var(--muted);text-align:center}
 @media(max-width:760px){.stats{grid-template-columns:1fr 1fr}.filters{grid-template-columns:1fr!important}.grid{grid-template-columns:1fr}.top{gap:6px}.top button{flex:1 1 auto}.cardHeader{align-items:flex-start}.rideToggle{margin-right:10px}.cardHead h2{overflow-wrap:anywhere}.actions{display:grid;grid-template-columns:1fr}.btn{text-align:center}}
@@ -44,12 +44,12 @@ dialog{border:1px solid var(--line);border-radius:18px;max-width:720px;width:cal
 }
 </style>
 </head><body>
-<header><div class="wrap"><h1>⛴️ 日本客輪｜船旅印帖 <button id="version">v3.2.1</button></h1><div class="sub">值得專程搭乘的日本船旅｜A 純觀光・B 自然體驗・C 特色航路・D 船旅型 Ferry</div><div class="top"><button id="toggleAll">全部展開</button><button id="export">匯出紀錄</button><button id="clear">清空勾選</button><button id="updates">更新記錄</button></div></div></header>
+<header><div class="wrap"><h1>⛴️ 日本客輪｜船旅印帖 <button id="version">v3.2.2</button></h1><div class="sub">值得專程搭乘的日本船旅｜A 純觀光・B 自然體驗・C 特色航路・D 船旅型 Ferry</div><div class="top"><button id="toggleAll">全部展開</button><button id="export">匯出紀錄</button><button id="clear">清空勾選</button><button id="updates">更新記錄</button></div></div></header>
 <main class="wrap"><div class="notice"><b>🚢 <span id="noticeCount"></span> 張｜第一階段基礎名單</b><br>目前以值得專程搭乘的日本船旅為核心；架構可繼續加入非觀光性質航路，分類與總數皆由資料動態產生。</div>
 <section class="stats"><div class="stat">正式主卡<br><b id="count"></b></div><div class="stat">船舶卡<br><b id="shipcards"></b></div><div class="stat">已搭乘<br><b id="done"></b></div><div class="stat">完成率<br><b id="rate"></b></div></section>
 <section class="filters"><input id="q" placeholder="搜尋船名、航線、地區、特色"><select id="region"><option value="">全部地區</option></select><select id="type"><option value="">全部類型</option></select></section><section id="grid" class="grid"></section></main>
-<footer>日本客輪｜船旅印帖 v3.2.1・Schema v2・2026-09-25</footer>
-<dialog id="modal"><h2>更新記錄</h2><p><b>2026-09-25｜v3.2.1</b></p><p>改為 Single Source of Truth：頁面直接載入 Phase 1 70張 Schema v2 正式母資料，不再於 index.html 另嵌 DATA。</p><p><b>2026-09-25｜v3.1.3</b></p><p>資料完整性 QA：移除新增觀光船不適用的「依官方配船表」占位文字，補足小樽海上観光船、伊根湾、長瀞的航程顯示。</p><p><b>2026-09-25｜v3.1.2</b></p><p>手機版 QA：修正篩選器被 inline grid 覆蓋造成雙欄擁擠；手機改單欄，操作按鈕與外部連結改善觸控版面。</p><p><b>2026-09-25｜v3.1.1</b></p><p>修正主頁、更新記錄、頁尾與匯出版本同步；延續 v3.1.0 的70張與 Schema v2 架構。</p><p><b>2026-09-25｜v3.1.0</b></p><p>第一階段擴充至70張；資料架構升級為 Schema v2，分類、標籤與體驗類型可擴充，總數與篩選器不再寫死。</p><p><b>v3.0.5</b> 54張部署版。</p><button onclick="modal.close()">關閉</button></dialog><script>let DATA=[];
+<footer>日本客輪｜船旅印帖 v3.2.2・Schema v2・2026-09-25</footer>
+<dialog id="modal"><h2>更新記錄</h2><p><b>2026-09-25｜v3.2.2</b></p><p>改為 Single Source of Truth：頁面直接載入 Phase 1 70張 Schema v2 正式母資料，不再於 index.html 另嵌 DATA。</p><p><b>2026-09-25｜v3.1.3</b></p><p>資料完整性 QA：移除新增觀光船不適用的「依官方配船表」占位文字，補足小樽海上観光船、伊根湾、長瀞的航程顯示。</p><p><b>2026-09-25｜v3.1.2</b></p><p>手機版 QA：修正篩選器被 inline grid 覆蓋造成雙欄擁擠；手機改單欄，操作按鈕與外部連結改善觸控版面。</p><p><b>2026-09-25｜v3.1.1</b></p><p>修正主頁、更新記錄、頁尾與匯出版本同步；延續 v3.1.0 的70張與 Schema v2 架構。</p><p><b>2026-09-25｜v3.1.0</b></p><p>第一階段擴充至70張；資料架構升級為 Schema v2，分類、標籤與體驗類型可擴充，總數與篩選器不再寫死。</p><p><b>v3.0.5</b> 54張部署版。</p><button onclick="modal.close()">關閉</button></dialog><script>let DATA=[];
 let CATEGORY_CONFIG=[];
 const DATA_URL='./data/船旅印帖_Phase1_70張母資料_v2.json';
 const KEY='jp_ferry_funatabi_tabijirushi_v310_20260925';
@@ -65,6 +65,20 @@ function rebuildFilters(){
 }
 function link(url,label){return url?`<a class="btn" href="${esc(url)}" target="_blank" rel="noopener">${label}</a>`:''}
 function row(label,val){return val?`<b>${label}：</b>${esc(val)}<br>`:''}
+function purchaseHTML(val){
+ if(!val)return '';
+ const raw=String(val).replace(/\r\n/g,'\n').trim();
+ const blocks=raw.split(/\n+/).map(s=>s.trim()).filter(Boolean);
+ const renderBlock=(block)=>{
+   const m=block.match(/^【([^】]+)】\s*(.*)$/s);
+   const title=m?m[1]:'';
+   const body=m?m[2]:block;
+   const items=body.split(/(?<=[。！？])\s*/).map(s=>s.trim()).filter(Boolean);
+   const content=items.length>1?`<ul class="purchaseList">${items.map(s=>`<li>${esc(s)}</li>`).join('')}</ul>`:`<div>${esc(body)}</div>`;
+   return `<div class="purchaseSection">${title?`<div class="purchaseSectionTitle">💡 ${esc(title)}</div>`:''}${content}</div>`;
+ };
+ return `<div class="purchase"><strong>🎟️ 購票／預約方式</strong>${blocks.map(renderBlock).join('')}</div>`;
+}
 let openCards=new Set();
 function syncToggleAll(){const cards=[...document.querySelectorAll('.card')],expanded=cards.length&&cards.every(x=>!x.querySelector('.cardBody').hidden);$('#toggleAll').textContent=expanded?'全部收合':'全部展開'}
 function setCardOpen(card,open){const body=card.querySelector('.cardBody'),head=card.querySelector('.cardHead'),chev=card.querySelector('.cardChevron'),id=card.dataset.id;body.hidden=!open;head.setAttribute('aria-expanded',String(open));chev.textContent=open?'⌃':'⌄';open?openCards.add(id):openCards.delete(id);syncToggleAll()}
@@ -74,7 +88,7 @@ function render(){
  $('#grid').innerHTML=a.map(x=>`<article class="card" data-id="${esc(x.id)}"><div class="cardHeader"><div class="cardHead" role="button" tabindex="0" aria-expanded="${openCards.has(x.id)}"><div class="jp">${esc(x.id)}｜${esc(x.region)}</div><h2>${esc(x.display_title)}</h2>${x.ships?`<div class="jp">${esc(x.ships)}</div>`:''}<div class="badges"><span class="badge">${esc(x.display_kind)}</span>${x.operation_label?`<span class="badge ${x.operation==='seasonal'?'seasonal':''}">${esc(x.operation_label)}</span>`:''}${x.operator_label?`<span class="badge multi">${esc(x.operator_label)}</span>`:''}</div><span class="cardChevron">${openCards.has(x.id)?'⌃':'⌄'}</span></div><button class="rideToggle ${saved[x.id]?'isDone':''}" data-ride-id="${esc(x.id)}">${saved[x.id]?'✓ 已搭乘':'○ 未搭乘'}</button></div>
  <div class="cardBody" ${openCards.has(x.id)?'':'hidden'}>
  <div class="cardLead"><b>🚢 船旅重點</b>${esc(x.display_lead)}</div>
- <div class="purchase"><b>🎟️ 購票／預約方式</b>${esc(x.purchase_detail||x.purchase)}</div>
+ ${purchaseHTML(x.purchase_detail||x.purchase)}
  <div class="meta">${row('類型',x.type)}${row('航程',x.duration)}${row('季節／運航',x.season_note)}${row('備註',x.note)}<span class="verified">${esc(x.link_status)}</span></div>
  <div class="actions">${link(x.official,'🌐 官方介紹')}${link(x.booking,'🎫 購票／預約資訊')}${link(x.schedule,'🕒 航線／時刻表')}</div><div class="collapseRow"><button class="collapseCard">收起這張卡</button></div></div></article>`).join('');
  $('#count').textContent=DATA.length;$('#noticeCount').textContent=DATA.length;let d=DATA.filter(x=>saved[x.id]).length;$('#done').textContent=d;$('#shipcards').textContent=DATA.filter(x=>x.card_basis==='ship').length;$('#rate').textContent=Math.round(d/DATA.length*100)+'%';
@@ -85,7 +99,7 @@ function render(){
 ['#q','#region','#type'].forEach(s=>$(s).addEventListener('input',render));
 $('#clear').onclick=()=>{if(confirm('清空全部已搭乘勾選？')){saved={};localStorage.setItem(KEY,'{}');render()}};
 $('#updates').onclick=$('#version').onclick=()=>$('#modal').showModal();
-$('#export').onclick=()=>{let blob=new Blob([JSON.stringify({app:'日本客輪｜船旅印帖',version:'v3.2.1',exported_at:new Date().toISOString(),checked:saved},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='日本客輪_船旅印帖_紀錄_v3.2.1.json';a.click();URL.revokeObjectURL(a.href)};
+$('#export').onclick=()=>{let blob=new Blob([JSON.stringify({app:'日本客輪｜船旅印帖',version:'v3.2.2',exported_at:new Date().toISOString(),checked:saved},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='日本客輪_船旅印帖_紀錄_v3.2.2.json';a.click();URL.revokeObjectURL(a.href)};
 $('#toggleAll').onclick=()=>{const cards=[...document.querySelectorAll('.card')],op=cards.some(x=>x.querySelector('.cardBody').hidden);cards.forEach(c=>setCardOpen(c,op))};
 async function init(){
  try{
