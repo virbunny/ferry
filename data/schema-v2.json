@@ -2,7 +2,7 @@
   "schema_version": "2.0",
   "stage": "phase_1",
   "status": "extensible",
-  "updated_at": "2026-09-27",
+  "updated_at": "2026-09-28",
   "design_notes": [
     "第一階段以值得專程搭乘的日本船旅為核心；目前卡片總數由母資料即時計算，不屬於 schema 固定規格，也不代表最終全集。",
     "後續可分階段加入非觀光性質航路，不以A/B/C/D作為程式固定邏輯。",
@@ -22,7 +22,8 @@
     "next_check": "string (YYYY-MM-DD); scheduled next deep review date; may be advanced when change_detected is true",
     "watch_level": "string; current values high/medium/low; maintenance priority based on how often decision-relevant facts are likely to change",
     "change_detected": "boolean; true when a lightweight monitoring pass finds a change that requires card-level review; reset to false after deep review is completed",
-    "check_cycle": "string; current values monthly/quarterly/preseason/annual; normal deep-review cadence, independent of emergency change-triggered review"
+    "check_cycle": "string; current values monthly/quarterly/preseason/annual; normal deep-review cadence, independent of emergency change-triggered review",
+    "last_signal_checked": "string (YYYY-MM-DD); date of the latest lightweight official-source signal scan; independent from last_deep_checked"
   },
   "categories": [
     {
@@ -58,6 +59,9 @@
     "tips": "travel_tip/access_tip/scenic_tip are independent optional content layers; renderer may hide empty values and should not infer missing tips",
     "maintenance": "weekly maintenance should scan high-change signals rather than re-verify every card; stable cards are reviewed on their check_cycle or when change_detected becomes true",
     "watch_level": "high = schedules/prices/booking rules or seasonal operations change frequently; medium = periodic operational changes; low = mostly stable descriptive content",
-    "change_trigger": "when a meaningful change is detected, set change_detected=true and bring next_check forward; after verified update, record last_deep_checked and reset change_detected=false"
+    "change_trigger": "when a meaningful change is detected, set change_detected=true and bring next_check forward; after verified update, record last_deep_checked and reset change_detected=false",
+    "signal_scan": "lightweight monitoring checks only decision-relevant change signals: suspension/resumption, operating season, timetable, fare, booking/purchase rules, passes/discounts, material vessel changes, and broken/redirected official links",
+    "noise_filter": "news posts, publicity copy, event photos, wording-only edits, and other changes that do not alter trip planning should not set change_detected=true",
+    "weekly_flow": "weekly scan -> record last_signal_checked -> if no material change keep change_detected=false; if material change set change_detected=true and advance next_check -> perform deep review -> update affected card fields -> set last_deep_checked -> reset change_detected=false -> schedule next_check by check_cycle"
   }
 }
