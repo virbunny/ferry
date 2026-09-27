@@ -1,4 +1,4 @@
-const CACHE='funatabi-v3-2-1-20260927';
+const CACHE='funatabi-v3-2-2-20260928';
 const DATA_PATH='/data/船旅印帖_Phase1_70張母資料_v2.json';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./ship-tabijirushi-v3-192.png','./ship-tabijirushi-v3-512.png','./data/船旅印帖_Phase1_70張母資料_v2.json'];
 
