@@ -3016,7 +3016,7 @@
       "operation": "seasonal",
       "status": "included",
       "phase": 1,
-      "verified_at": "2026-09-25",
+      "verified_at": "2026-09-27",
       "tags": [
         "自然體驗",
         "海岸景觀"
@@ -3029,7 +3029,7 @@
       "source_status": "official_checked",
       "official": "https://www.okikankou.com/sightseeing-boat/",
       "duration": "Aコース約1小時30分",
-      "purchase": "可WEB預約；前日／當日可電話洽詢",
+      "purchase": "可使用官方WEB預約國賀海岸遊覽船；若已到前日或當日，改以電話確認空位與當日運航。海況可能造成停航，即使已有預約，出發前仍應再次確認當日是否開船。",
       "season_note": "2026/3/21～10/31每日；Aコース1日3便。Bコース2026年度不運航；荒天可能改船長おまかせコース",
       "url_status": "official_checked",
       "category": "B",
@@ -3037,7 +3037,7 @@
       "name": "国賀海岸遊覧船",
       "ships": "",
       "features": [],
-      "purchase_detail": "可WEB預約；前日／當日可電話洽詢",
+      "purchase_detail": "可使用官方WEB預約國賀海岸遊覽船；若已到前日或當日，改以電話確認空位與當日運航。海況可能造成停航，即使已有預約，出發前仍應再次確認當日是否開船。",
       "note": "2026/3/21～10/31每日營運；A路線每日3班，B路線2026年度停駛；天候不佳時可能改為由船長依當日海況決定的替代路線。",
       "link_status": "✓ 官方資料查核 2026-09-25",
       "display_title": "国賀海岸遊覧船",
