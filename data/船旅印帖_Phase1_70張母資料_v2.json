@@ -3,7 +3,7 @@
   "dataset_version": "2.0.0",
   "phase": 1,
   "status": "phase1_master",
-  "updated_at": "2026-09-25",
+  "updated_at": "2026-09-27",
   "count": 70,
   "design_notes": [
     "第一階段以值得專程搭乘的日本船旅為核心；69張為目前基礎名單，不代表最終全集。",
@@ -81,7 +81,12 @@
         "觀光"
       ],
       "highlight": "海賊船造型本身就是景點；クイーン芦ノ湖／ロワイヤルⅡ／ビクトリー三艘各有不同內裝，並可加價使用特別船室與專用甲板欣賞蘆之湖景色。",
-      "access_tip": "【Pass 判斷】箱根フリーパス＝海賊船普通船室已包含且有效期內可重複搭乘；海賊船＋ロープウェイ乗り放題パス＝適合自駕或只玩蘆之湖／大涌谷區域。特別船室不包含，需當日另購。"
+      "access_tip": "【Pass 判斷】箱根フリーパス＝海賊船普通船室已包含且有效期內可重複搭乘；海賊船＋ロープウェイ乗り放題パス＝適合自駕或只玩蘆之湖／大涌谷區域。特別船室不包含，需當日另購。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -125,7 +130,12 @@
         "觀光"
       ],
       "highlight": "以大型外輪船ミシガン巡遊琵琶湖南湖；最上層 Sky Deck 可360°眺望琵琶湖、比叡山與琵琶湖大橋，並有60分／90分及季節夜航。",
-      "access_tip": "【套票判斷】Michigan 常與滋賀觀光／交通商品搭配；是否划算取決於同日還搭哪些交通與景點。購買前應核對適用航班、是否需換票、是否含特定座席／餐飲，避免把『乘船包含』誤認為船上所有服務都包含。"
+      "access_tip": "【套票判斷】Michigan 常與滋賀觀光／交通商品搭配；是否划算取決於同日還搭哪些交通與景點。購買前應核對適用航班、是否需換票、是否含特定座席／餐飲，避免把『乘船包含』誤認為船上所有服務都包含。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -169,7 +179,12 @@
         "觀光",
         "城郭"
       ],
-      "highlight": "2026秋季另有 Twilight Cruise"
+      "highlight": "2026秋季另有 Twilight Cruise",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -211,7 +226,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "2026主要航期4/24～11/5；班次依航路/日期不同"
+      "highlight": "2026主要航期4/24～11/5；班次依航路/日期不同",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "A",
@@ -253,7 +273,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "2026年正常行駛；Sunset Cruise主要於黃金週及8～10月週末等期間限定"
+      "highlight": "2026年正常行駛；Sunset Cruise主要於黃金週及8～10月週末等期間限定",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "A",
@@ -291,7 +316,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "現場購票；團體另有預約窗口"
+      "highlight": "現場購票；團體另有預約窗口",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -331,7 +361,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "松本零士設計的淚滴型未來船；船內可聽到《銀河鐵道999》鐵郎、梅德爾與車掌等角色的觀光廣播，船本身就是搭乘目的。"
+      "highlight": "松本零士設計的淚滴型未來船；船內可聽到《銀河鐵道999》鐵郎、梅德爾與車掌等角色的觀光廣播，船本身就是搭乘目的。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -371,7 +406,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "松本零士設計的銀色流線型未來船，帶有 Gull-wing 艙門；日の出桟橋－お台場區間天候許可時會開放屋上甲板，可直接在船外欣賞東京灣景色。"
+      "highlight": "松本零士設計的銀色流線型未來船，帶有 Gull-wing 艙門；日の出桟橋－お台場區間天候許可時會開放屋上甲板，可直接在船外欣賞東京灣景色。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -412,7 +452,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "2026-08-02檢修後恢復運航"
+      "highlight": "2026-08-02檢修後恢復運航",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -452,7 +497,12 @@
         "觀光"
       ],
       "highlight": "搭乘仿西班牙大航海時代 Carrack 帆船造型的エスペランサ巡遊英虞灣約50分；沿途可看珍珠養殖筏，3樓 Open Deck 視野開闊。",
-      "travel_tip": "【電子票注意】賢島エスパーニャクルーズ的 Webket 電子票仍需在當日售票窗口換取乘船券；不要把手機電子票理解成可直接掃碼登船。"
+      "travel_tip": "【電子票注意】賢島エスパーニャクルーズ的 Webket 電子票仍需在當日售票窗口換取乘船券；不要把手機電子票理解成可直接掃碼登船。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2027-09-27",
+      "watch_level": "low",
+      "change_detected": false,
+      "check_cycle": "annual"
     },
     {
       "category": "A",
@@ -491,7 +541,12 @@
         "觀光"
       ],
       "highlight": "函館首艘本格 Bay Cruise 雙體遊覽船；可選約40分函館港內一周或約60分函館－寒川周遊，2026年船內大幅翻新並加入船上美術館般的藝術空間。",
-      "duration": "約40分（函館港內一周）／約60分（函館－寒川周遊）"
+      "duration": "約40分（函館港內一周）／約60分（函館－寒川周遊）",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -530,7 +585,12 @@
       "experience_type": [
         "觀光"
       ],
-      "highlight": "各營運者現場／預約方式不同"
+      "highlight": "各營運者現場／預約方式不同",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "A",
@@ -571,7 +631,12 @@
       "experience_type": [
         "觀光",
         "城郭"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -615,7 +680,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -657,7 +727,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -701,7 +776,12 @@
       "experience_type": [
         "自然體驗"
       ],
-      "highlight": "冬季1/20～3/31；2026季已於3/31結束"
+      "highlight": "冬季1/20～3/31；2026季已於3/31結束",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -741,7 +821,12 @@
         "自然體驗"
       ],
       "highlight": "2026冬季運航已於3/31結束；2026另有夏季特別 Cruise",
-      "booking": "https://booking.o-tower.co.jp/?lng=ja-JP"
+      "booking": "https://booking.o-tower.co.jp/?lng=ja-JP",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -785,7 +870,12 @@
       "experience_type": [
         "自然體驗"
       ],
-      "highlight": "約4月下旬～10月下旬；各航路期間不同"
+      "highlight": "約4月下旬～10月下旬；各航路期間不同",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -827,7 +917,12 @@
       "experience_type": [
         "自然體驗"
       ],
-      "highlight": "4/15～11/30；4/15～4/30不定期"
+      "highlight": "4/15～11/30；4/15～4/30不定期",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -867,7 +962,12 @@
       "experience_type": [
         "自然體驗"
       ],
-      "highlight": "2026季4/25開始；受海況影響可能臨時停航"
+      "highlight": "2026季4/25開始；受海況影響可能臨時停航",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -911,7 +1011,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -953,7 +1058,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -995,7 +1105,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -1039,7 +1154,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -1083,7 +1203,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "B",
@@ -1127,7 +1252,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "B",
@@ -1169,7 +1299,12 @@
       ],
       "experience_type": [
         "自然體驗"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "C",
@@ -1211,7 +1346,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "highlight": "2026/7/1～2027/3/31官方運航日曆已公布；依日期採不同班表"
+      "highlight": "2026/7/1～2027/3/31官方運航日曆已公布；依日期採不同班表",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "C",
@@ -1254,7 +1394,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "access_tip": "【JR Pass 注意】符合官方適用範圍的 JR-WEST RAIL PASS 可涵蓋 JR西日本宮島フェリー船資；但宮島訪問税另計，目前為每人每次100日圓。也就是：拿 Pass 搭船本身免費，進宮島仍需處理100日圓訪問税。"
+      "access_tip": "【JR Pass 注意】符合官方適用範圍的 JR-WEST RAIL PASS 可涵蓋 JR西日本宮島フェリー船資；但宮島訪問税另計，目前為每人每次100日圓。也就是：拿 Pass 搭船本身免費，進宮島仍需處理100日圓訪問税。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2027-09-27",
+      "watch_level": "low",
+      "change_detected": false,
+      "check_cycle": "annual"
     },
     {
       "category": "C",
@@ -1298,7 +1443,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "highlight": "2026全年行駛；Car Ferry通常每天5個來回，旅遊旺季會加班。"
+      "highlight": "2026全年行駛；Car Ferry通常每天5個來回，旅遊旺季會加班。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "C",
@@ -1342,7 +1492,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "highlight": "2026/3/20恢復季節性行駛；實際日期依官方年度時刻表。"
+      "highlight": "2026/3/20恢復季節性行駛；實際日期依官方年度時刻表。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "C",
@@ -1384,7 +1539,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "highlight": "2026夏季有特別班表；9/17～12/29採通常班表，年末年始另有運休表"
+      "highlight": "2026夏季有特別班表；9/17～12/29採通常班表，年末年始另有運休表",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "C",
@@ -1426,7 +1586,12 @@
       "experience_type": [
         "特色航路"
       ],
-      "highlight": "2026正常行駛；「万葉」4/3～4/16年度檢修、「椿」10/5～10/18預定檢修，期間船舶安排可能調整。"
+      "highlight": "2026正常行駛；「万葉」4/3～4/16年度檢修、「椿」10/5～10/18預定檢修，期間船舶安排可能調整。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "C",
@@ -1467,7 +1632,12 @@
       ],
       "experience_type": [
         "特色航路"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "C",
@@ -1511,7 +1681,12 @@
       ],
       "experience_type": [
         "特色航路"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "C",
@@ -1555,7 +1730,12 @@
       ],
       "experience_type": [
         "特色航路"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1601,7 +1781,12 @@
         "長距離",
         "城郭"
       ],
-      "travel_tip": "【提早登船】原則約開船前90分鐘開始引導登船（仙台→名古屋約50分鐘前）；若晚於開船前20分鐘，可能無法登船，建議提早抵達港口。"
+      "travel_tip": "【提早登船】原則約開船前90分鐘開始引導登船（仙台→名古屋約50分鐘前）；若晚於開船前20分鐘，可能無法登船，建議提早抵達港口。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "D",
@@ -1647,7 +1832,12 @@
         "長距離"
       ],
       "travel_tip": "【延後下船休息】06:00抵港後可繼續留在船內休息：東予→大阪最晚08:00下船；大阪→東予最晚07:00下船。很適合夜航後多補一點睡眠。",
-      "access_tip": "【港口接駁】東予港↔松山／道後温泉有直通連絡巴士；需預約且不能只訂巴士，必須與 Ferry 一起預約。東予港06:20發，07:33到JR松山、07:48到道後温泉（現行表；搭乘前再確認）。"
+      "access_tip": "【港口接駁】東予港↔松山／道後温泉有直通連絡巴士；需預約且不能只訂巴士，必須與 Ferry 一起預約。東予港06:20發，07:33到JR松山、07:48到道後温泉（現行表；搭乘前再確認）。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1692,7 +1882,12 @@
         "長距離"
       ],
       "highlight": "新門司－神戶的瀨戶內海夜行航線；搭乘「せっつ／やまと」可享受展望大廳與大浴場，把睡眠時間直接用來移動。",
-      "scenic_tip": "【三大橋】新門司→神戶依序通過來島海峽大橋→瀨戶大橋→明石海峽大橋，反方向則相反。通過時間會隨星期與班表變動；例如週日至週四神戶出發班約為明石19:30／瀨戶22:45／來島01:05。當天再查官方船內營業時間頁的班表。"
+      "scenic_tip": "【三大橋】新門司→神戶依序通過來島海峽大橋→瀨戶大橋→明石海峽大橋，反方向則相反。通過時間會隨星期與班表變動；例如週日至週四神戶出發班約為明石19:30／瀨戶22:45／來島01:05。當天再查官方船內營業時間頁的班表。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1737,7 +1932,12 @@
         "長距離"
       ],
       "highlight": "新門司－泉大津一晚直達的瀨戶內海夜行 Ferry；傍晚開船、隔日清晨抵達，可把關西－北九州的移動直接變成一晚住宿型船旅。",
-      "travel_tip": "【延後下船服務（ゆっくりステイ）】新門司↔泉大津06:00抵港後，可免費留在船內至07:15。不能事前預約，須當天申請；徒步旅客及符合條件的自用車旅客可用，貨車、機車、自行車不適用，另有暫停實施期間。"
+      "travel_tip": "【延後下船服務（ゆっくりステイ）】新門司↔泉大津06:00抵港後，可免費留在船內至07:15。不能事前預約，須當天申請；徒步旅客及符合條件的自用車旅客可用，貨車、機車、自行車不適用，另有暫停實施期間。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1783,7 +1983,12 @@
       ],
       "highlight": "大阪南港－新門司每天兩班來回的夜行航線，出發時間選擇較多，可用一晚大型 Ferry 船程穿越瀨戶內海。",
       "travel_tip": "【延後下船服務（のんびり滞在）】新門司17:00→大阪南港05:30的上行1便，徒步旅客可免費留在船內至07:00。2026/12/25開船班次前實施（部分日期除外），登船後到船內服務台當天申請。",
-      "scenic_tip": "【三大橋值得起床看】大阪南港－新門司會通過明石海峽大橋、瀨戶大橋、來島海峽大橋。大阪19:50出發的第2班，參考時間約為明石21:05／瀨戶00:30／來島02:50；新門司出發則順序相反。建議比參考時間提早約10分鐘準備。"
+      "scenic_tip": "【三大橋值得起床看】大阪南港－新門司會通過明石海峽大橋、瀨戶大橋、來島海峽大橋。大阪19:50出發的第2班，參考時間約為明石21:05／瀨戶00:30／來島02:50；新門司出發則順序相反。建議比參考時間提早約10分鐘準備。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1827,7 +2032,12 @@
       "experience_type": [
         "船旅",
         "長距離"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1871,7 +2081,12 @@
         "船旅",
         "長距離"
       ],
-      "duration": "大型客船：東京→大島最短約6小時、利島約7小時35分、新島約8小時30分、式根島約9小時、神津島約9小時55分；高速 Jet 船：最短約1小時45分～3小時5分（依目的島而異）"
+      "duration": "大型客船：東京→大島最短約6小時、利島約7小時35分、新島約8小時30分、式根島約9小時、神津島約9小時55分；高速 Jet 船：最短約1小時45分～3小時5分（依目的島而異）",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "D",
@@ -1915,7 +2130,12 @@
         "船旅",
         "長距離"
       ],
-      "duration": "東京竹芝→八丈島：約10小時35分（22:30→翌09:05；三宅島・御蔵島經由）。回程時刻依月別時刻表。"
+      "duration": "東京竹芝→八丈島：約10小時35分（22:30→翌09:05；三宅島・御蔵島經由）。回程時刻依月別時刻表。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -1959,7 +2179,12 @@
         "船旅",
         "長距離"
       ],
-      "duration": "本土－隠岐は便・港により約2時間25分～4時間25分程度；島前・島後間もフェリーで移動可能。"
+      "duration": "本土－隠岐は便・港により約2時間25分～4時間25分程度；島前・島後間もフェリーで移動可能。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2003,7 +2228,12 @@
         "船旅",
         "長距離"
       ],
-      "duration": "鹿児島→那覇：約25小時（18:00→翌19:00）；那覇→鹿児島：約25小時30分（07:00→翌08:30）。名瀬・亀徳・和泊・与論・本部経由。"
+      "duration": "鹿児島→那覇：約25小時（18:00→翌19:00）；那覇→鹿児島：約25小時30分（07:00→翌08:30）。名瀬・亀徳・和泊・与論・本部経由。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2047,7 +2277,12 @@
         "船旅",
         "長距離"
       ],
-      "duration": "鹿児島→那覇：約25小時（18:00→翌19:00）；那覇→鹿児島：約25小時30分（07:00→翌08:30）。名瀬・亀徳・和泊・与論・本部経由。"
+      "duration": "鹿児島→那覇：約25小時（18:00→翌19:00）；那覇→鹿児島：約25小時30分（07:00→翌08:30）。名瀬・亀徳・和泊・与論・本部経由。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2093,7 +2328,12 @@
         "船旅",
         "長距離"
       ],
-      "highlight": "敦賀－苫小牧東約20小時30分，夜間開船、隔日晚間抵達；適合把移動本身安排成一晚日本海船旅。"
+      "highlight": "敦賀－苫小牧東約20小時30分，夜間開船、隔日晚間抵達；適合把移動本身安排成一晚日本海船旅。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "D",
@@ -2139,7 +2379,12 @@
         "船旅",
         "長距離"
       ],
-      "highlight": "舞鶴－小樽約21小時，深夜開船、隔日晚間抵達；可用一晚船程直接連接關西與北海道。"
+      "highlight": "舞鶴－小樽約21小時，深夜開船、隔日晚間抵達；可用一晚船程直接連接關西與北海道。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "category": "D",
@@ -2187,7 +2432,12 @@
       ],
       "highlight": "新潟－小樽約16小時30分，依班次於白天或傍晚開船，船上住宿一晚後抵達北海道／新潟。",
       "travel_tip": "【延後下船服務（ゆっくり下船）】新潟→小樽04:30抵達班次，2026年官方提供免費留船休息至06:00；適用船舶為らべんだあ／あざれあ，實施日期依官方公告。",
-      "access_tip": "【小樽清晨攻略】新潟→小樽04:30抵港；除可申請留船至06:00的「ゆっくり下船」外，官方2026/9另推薦小樽觀光協會「朝活マップ」，可安排看晨光、散步與早餐。"
+      "access_tip": "【小樽清晨攻略】新潟→小樽04:30抵港；除可申請留船至06:00的「ゆっくり下船」外，官方2026/9另推薦小樽觀光協會「朝活マップ」，可安排看晨光、散步與早餐。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2233,7 +2483,12 @@
         "船旅",
         "長距離"
       ],
-      "highlight": "新潟－秋田－苫小牧東的寄港航線，可把東北與北海道串成一段夜行船旅；適合想在秋田中途上下船或避開單純點對點飛行的人。"
+      "highlight": "新潟－秋田－苫小牧東的寄港航線，可把東北與北海道串成一段夜行船旅；適合想在秋田中途上下船或避開單純點對點飛行的人。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2281,7 +2536,12 @@
       ],
       "highlight": "大阪－別府的瀨戶內海夜行航線；可在「くれない／むらさき」船上住宿一晚前往別府，特定日期另有白天航行企劃。",
       "access_tip": "【別府早晨攻略】別府港下船後，碼頭前有往別府站的路線巴士；官方另整理「別府ご近所MAP」，專門介紹早晨抵港後可消磨時間的店家與溫泉。",
-      "scenic_tip": "【三大橋】大阪→別府依序通過明石海峽大橋→瀨戶大橋→來島大橋。週日至週四參考時間約20:15／23:50／02:05，週五、六約21:05／00:40／02:55；別府→大阪順序相反，明石大橋約清晨05:17或06:15通過。"
+      "scenic_tip": "【三大橋】大阪→別府依序通過明石海峽大橋→瀨戶大橋→來島大橋。週日至週四參考時間約20:15／23:50／02:05，週五、六約21:05／00:40／02:55；別府→大阪順序相反，明石大橋約清晨05:17或06:15通過。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2329,7 +2589,12 @@
       ],
       "highlight": "神戶－大分的瀨戶內海夜行航線；搭「ごーるど／ぱーる」在船上住宿一晚，隔天清晨即可從大分或神戶直接開始行程。",
       "access_tip": "【下船即接駁】大分港下船後，碼頭正面有往大分站的接駁路線巴士，通常只開1班，官方特別提醒要儘早下船避免錯過；神戶端下船後也有 Ferry 聯絡巴士銜接鐵路站。",
-      "scenic_tip": "【三大橋】神戶→大分依序通過明石海峽大橋→瀨戶大橋→來島大橋。週日至週四參考時間約20:00／23:25／01:45，週五、六約20:50／00:20／02:40；大分→神戶順序相反，明石大橋約清晨05:20或06:30通過。"
+      "scenic_tip": "【三大橋】神戶→大分依序通過明石海峽大橋→瀨戶大橋→來島大橋。週日至週四參考時間約20:00／23:25／01:45，週五、六約20:50／00:20／02:40；大分→神戶順序相反，明石大橋約清晨05:20或06:30通過。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "category": "D",
@@ -2376,7 +2641,12 @@
         "長距離"
       ],
       "highlight": "大阪－志布志的長距離夜行航線；搭「さつま／きりしま」約14～16小時，可從關西直接以船旅方式前往南九州。",
-      "travel_tip": "【轉乘要留緩衝】大阪－志布志航路靠港後不會立刻下船；汽車／機車旅客開始下船的參考時間，約為抵達大阪後40分鐘、抵達志布志後30分鐘。安排抵港後轉乘時不要把靠港時間直接當成離開碼頭時間。"
+      "travel_tip": "【轉乘要留緩衝】大阪－志布志航路靠港後不會立刻下船；汽車／機車旅客開始下船的參考時間，約為抵達大阪後40分鐘、抵達志布志後30分鐘。安排抵港後轉乘時不要把靠港時間直接當成離開碼頭時間。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "id": "a-014",
@@ -2421,7 +2691,12 @@
       "links_available": [
         "official"
       ],
-      "access_tip": "【大阪周遊卡】大阪城御座船為 Osaka Amazing Pass 免費設施之一；不是直接排隊上船，仍要先換取指定時間乘船券。熱門時段可能額滿，建議到大阪城後先換票再逛。"
+      "access_tip": "【大阪周遊卡】大阪城御座船為 Osaka Amazing Pass 免費設施之一；不是直接排隊上船，仍要先換取指定時間乘船券。熱門時段可能額滿，建議到大阪城後先換票再逛。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-015",
@@ -2465,7 +2740,12 @@
       "links_available": [
         "official"
       ],
-      "travel_tip": "【線上額滿不等於當天沒位】官方說明：預約名額售完時，若仍有當日乘船空位，可直接到碼頭詢問；建議最晚開船前10分鐘到場確認。"
+      "travel_tip": "【線上額滿不等於當天沒位】官方說明：預約名額售完時，若仍有當日乘船空位，可直接到碼頭詢問；建議最晚開船前10分鐘到場確認。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-016",
@@ -2509,7 +2789,12 @@
       "links_available": [
         "official"
       ],
-      "travel_tip": "【現場為主、預約為輔】和歌山城護城河遊船不是「一定要預約」的商品；一般旅客可當天現場排隊。若行程時間很固定，再事前聯絡營運方較有價值。"
+      "travel_tip": "【現場為主、預約為輔】和歌山城護城河遊船不是「一定要預約」的商品；一般旅客可當天現場排隊。若行程時間很固定，再事前聯絡營運方較有價值。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-017",
@@ -2552,7 +2837,12 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "id": "a-018",
@@ -2599,7 +2889,12 @@
         "official",
         "booking",
         "schedule"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "medium",
+      "change_detected": false,
+      "check_cycle": "quarterly"
     },
     {
       "id": "a-019",
@@ -2645,7 +2940,12 @@
         "booking"
       ],
       "duration": "主要航程依 course；オタモイ周遊A 約80分",
-      "travel_tip": "【預約入口注意】小樽海上観光船「あおばと」各航路的預約方式並不完全相同；WEB目前主要受理オタモイ周遊航路A，其他航路不要直接假設能在線上完成，應依該航路說明或電話確認。"
+      "travel_tip": "【預約入口注意】小樽海上観光船「あおばと」各航路的預約方式並不完全相同；WEB目前主要受理オタモイ周遊航路A，其他航路不要直接假設能在線上完成，應依該航路說明或電話確認。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-020",
@@ -2690,7 +2990,12 @@
         "official"
       ],
       "duration": "伊根湾めぐり約25分；海上タクシー依業者 course",
-      "travel_tip": "【怎麼選】想簡單、班次制度化→大型伊根灣遊覽船；想搭小船貼近舟屋、重視導覽與彈性→小型海上計程船。保留日文名稱只為方便在官網／現場辨認，不需要懂日文才能選。"
+      "travel_tip": "【怎麼選】想簡單、班次制度化→大型伊根灣遊覽船；想搭小船貼近舟屋、重視導覽與彈性→小型海上計程船。保留日文名稱只為方便在官網／現場辨認，不需要懂日文才能選。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2027-09-27",
+      "watch_level": "low",
+      "change_detected": false,
+      "check_cycle": "annual"
     },
     {
       "id": "a-021",
@@ -2738,7 +3043,12 @@
         "official",
         "schedule"
       ],
-      "access_tip": "【省步行＋套票】天橋立觀光船本身可代替宮津／天橋立－一之宮之間約50～60分鐘步行；若同日上傘松公園，可先查看官方觀光船＋纜車／吊椅套票或周遊券，避免分開買票。"
+      "access_tip": "【省步行＋套票】天橋立觀光船本身可代替宮津／天橋立－一之宮之間約50～60分鐘步行；若同日上傘松公園，可先查看官方觀光船＋纜車／吊椅套票或周遊券，避免分開買票。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-022",
@@ -2782,7 +3092,12 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-015",
@@ -2826,7 +3141,12 @@
       "links_available": [
         "official"
       ],
-      "travel_tip": "【多業者怎麼選】先選「散客共乘」或「包船」，再選業者；不要先挑公司，最後才發現當天沒有適合個人的共乘班次。"
+      "travel_tip": "【多業者怎麼選】先選「散客共乘」或「包船」，再選業者；不要先挑公司，最後才發現當天沒有適合個人的共乘班次。",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-016",
@@ -2869,7 +3189,12 @@
       "links_available": [
         "official"
       ],
-      "duration": "依 course 與河川狀況，約15～20分"
+      "duration": "依 course 與河川狀況，約15～20分",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-017",
@@ -2915,7 +3240,12 @@
         "official",
         "schedule"
       ],
-      "booking": "https://www.hozugawakudari.jp/tickets/reservation"
+      "booking": "https://www.hozugawakudari.jp/tickets/reservation",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-018",
@@ -2959,7 +3289,12 @@
       "links_available": [
         "official"
       ],
-      "booking": "https://linekudari.com/"
+      "booking": "https://linekudari.com/",
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-019",
@@ -3004,7 +3339,12 @@
       "links_available": [
         "official",
         "schedule"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "b-020",
@@ -3047,7 +3387,12 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     },
     {
       "id": "a-023",
@@ -3092,7 +3437,12 @@
       "operator_label": "",
       "links_available": [
         "official"
-      ]
+      ],
+      "last_deep_checked": "2026-09-27",
+      "next_check": "2026-12-27",
+      "watch_level": "high",
+      "change_detected": false,
+      "check_cycle": "preseason"
     }
   ]
 }
